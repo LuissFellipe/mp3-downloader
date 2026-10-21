@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+.pytest_cache/
+# O histórico agora fica na pasta de dados do usuário, mas um arquivo antigo
+# ao lado do código nunca deve voltar ao repositório.
+download_history.json
+historico.json
